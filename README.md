@@ -1,13 +1,29 @@
-# Physics Experiments
+# 物理实验资料库
 
-This repository contains physics experiment related files and documents.
+这是一个面向大学物理课程的中文物理教育资源库，包含了丰富的实验文档、评估材料和教学资源。
 
-## Directory Structure
+## 目录结构
 
-- `document/` - Documentation files
-- `paper/` - Research papers and reports
-- `原文件/` - Original source files
+本仓库采用三层结构进行组织：
 
-## Description
+- **`document/`** - 存放正式的实验指南、教材和理论背景知识。
+- **`paper/`** - 包含评估材料、带有详细解答和说明的考题。
+- **`study_guide/`** - 提供针对各项实验的学习指南。
+- **`原文件/`** - 作为参考的原始补充文件（PDF、PPT、DOC等）。
 
-Collection of physics experiment materials including documentation, papers, and source files.
+## 主要实验内容
+
+1.  **声速与光速测量**
+2.  **太阳能电池特性**
+3.  **巨磁电阻**
+4.  **核磁共振**
+5.  **落球法测粘滞系数**
+6.  **迈克尔逊干涉仪**
+
+## 内容架构
+
+**学习流程**: 理论 → 步骤 → 评估 → 参考
+- `document/` 中的学习材料提供了理论原理和实验步骤。
+- `paper/` 中的评估材料包括详细的解释、公式和解题方法。
+- `study_guide/` 中的学习指南可以帮助更好地理解实验。
+- `原文件/` 中的原始文件作为视觉和参考材料的补充。
